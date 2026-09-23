@@ -1,7 +1,7 @@
 # Mashauri Hamisi Salumbo
 
 **Flutter / Mobile Applications Developer** · Dar es Salaam, Tanzania  
-[GitHub](https://github.com/prof-sarumbo) · [LinkedIn](https://www.linkedin.com/in/mashauri-sarumbo-584242170) · [Ndinga App](https://play.google.com/store/apps/details?id=com.ndinga.ndingaapp) · mashaurisarumboo@gmail.com · +255 797 951 001
+[GitHub](https://github.com/prof-sarumbo) · [LinkedIn](https://www.linkedin.com/in/mashauri-sarumbo-584242170) · [Ndinga App](https://play.google.com/store/apps/details?id=com.ndinga.ndingaapp) · mashaurisarumboo@gmail.com · +255 719632650
 
 Hands-on Flutter developer with **8+ years** shipping Android and iOS apps used in Tanzania. I design, build, test, and publish cross-platform products: marketplaces, maps/navigation, payments, fleet tools, and government-scale services. Comfortable owning a feature from UI to REST API, Firebase, store release, and production fixes.
 
