@@ -1,7 +1,7 @@
 # Mashauri Hamisi Salumbo
 
 **Flutter / Mobile Applications Developer** · Dar es Salaam, Tanzania  
-[GitHub](https://github.com/prof-sarumbo) · [LinkedIn](https://www.linkedin.com/in/mashauri-sarumbo-584242170) · [Ndinga App](https://play.google.com/store/apps/details?id=com.ndinga.ndingaapp) · mashaurisarumboo@gmail.com · +255 719632650
+[GitHub](https://github.com/prof-sarumbo) · [LinkedIn](https://www.linkedin.com/in/mashauri-sarumbo-584242170) · [Ndinga App](https://play.google.com/store/apps/details?id=com.ndinga.ndingaapp) · mashaurisarumboo@gmail.com · +255 719 632 650
 
 Hands-on Flutter developer with **8+ years** shipping Android and iOS apps used in Tanzania. I design, build, test, and publish cross-platform products: marketplaces, maps/navigation, payments, fleet tools, and government-scale services. Comfortable owning a feature from UI to REST API, Firebase, store release, and production fixes.
 
@@ -67,15 +67,29 @@ Designing, coding, testing, and deploying Android/iOS apps.
 
 ---
 
-## What I am looking for
-A full-time **Mobile Applications Developer (Flutter)** role in Dar es Salaam where I can build and maintain production apps with a team — the same work I already do on Ndinga, NaPA, Posta, and client products.
+## Referees
+
+**Mr Richard Magubila**  
+ICT Officer and Project Leader, NaPA  
+Ministry of Information, Communication and Information Technology  
+Mji wa Serikali, S.L.P 677, 40470 Dodoma  
++255 757 707 025
+
+**Mr Medson Naftali**  
+CEO & Director  
+Splashcloud Limited & SplashPay Ltd  
+Dodoma, Tanzania  
++255 717 879 919
+
+**Mr Michael Njay**  
+Director of ICT  
+Tanzania Posts Corporation (TPC)  
+Dar es Salaam, Tanzania  
++255 769 801 462
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?logo=fastapi&logoColor=white" alt="REST" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-</p>
+## What I am looking for
+A full-time **Mobile Applications Developer (Flutter)** role in Dar es Salaam where I can build and maintain production apps with a team — the same work I already do on Ndinga, NaPA, Posta, and client products.
+
+PDF: [Mashauri_Salumbo_CV.pdf](./Mashauri_Salumbo_CV.pdf)
